@@ -43,6 +43,7 @@ Jean-Luc DeRieux - jeanluc.derieux@vt.edu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+## Visitor Counter
 ![Visitor Count](https://profile-counter.glitch.me/{Jean-LucDeRieux}/count.svg)
 
 [personalWeb-shield]: https://img.shields.io/badge/-Personal_Website-black.svg?style=for-the-badge&logo=Personal_Website&colorB=555
