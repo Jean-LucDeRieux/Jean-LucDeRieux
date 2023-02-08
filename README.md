@@ -38,20 +38,12 @@ ML_CNN_V1 | C++
 
 Jean-Luc DeRieux - jeanluc.derieux@vt.edu
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[Visitor Count](https://profile-counter.glitch.me/{Jean-LucDeRieux}/count.svg)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jean-LucDeRieux&label=Profile%20views&color=ce9927&style=flat" alt="Jean-LucDeRieux" /> </p>
-
+![Visitor Count](https://profile-counter.glitch.me/{Jean-LucDeRieux}/count.svg)
 
 [personalWeb-shield]: https://img.shields.io/badge/-Personal_Website-black.svg?style=for-the-badge&logo=Personal_Website&colorB=555
 [personalWeb-url]: https://jean-lucderieux.github.io/JeanLucDeRieux.github.io/index
