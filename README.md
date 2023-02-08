@@ -48,6 +48,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+[Visitor Count](https://profile-counter.glitch.me/{Jean-LucDeRieux}/count.svg)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jean-LucDeRieux&label=Profile%20views&color=ce9927&style=flat" alt="Jean-LucDeRieux" /> </p>
 
 
 [personalWeb-shield]: https://img.shields.io/badge/-Personal_Website-black.svg?style=for-the-badge&logo=Personal_Website&colorB=555
