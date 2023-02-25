@@ -36,7 +36,7 @@ ML_CNN_V1 | C++
 <!-- CONTACT -->
 ## Contact
 
-Jean-Luc DeRieux - jeanluc.derieux@vt.edu
+Jean-Luc DeRieux - jeanluc.derieux@vt.edu - jldx.studio@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
