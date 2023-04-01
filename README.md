@@ -4,7 +4,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![SchoolYoutube][SchoolYoutube-shield]][SchoolYoutube-url]
 [![Personal Youtube][PersonalYoutube-shield]][PersonalYoutube-url]
-[![Personal Website][personalWeb-shield]][personalWeb-url]
 
 
 Projects  | Tools Used
