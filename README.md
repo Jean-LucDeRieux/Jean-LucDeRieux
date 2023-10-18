@@ -9,13 +9,14 @@
 Projects  | Tools Used
 --------- | ----------
 ML_CNN_V1 | C++
+ML_Models | Jypter Notebook - Python
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="DALL·E 2023-02-08 12.34.56.png" alt="Logo" width="180" height="180">
+    <img src="DALL·E 2023-02-08.png" alt="Logo" width="180" height="180">
   </a>
 
 <h3 align="center">ML_CNN_V1</h3>
@@ -28,6 +29,24 @@ ML_CNN_V1 | C++
     <a href="https://github.com/Jean-LucDeRieux/ML_CNN_V1/issues">Report Bug</a>
     ·
     <a href="https://github.com/Jean-LucDeRieux/ML_CNN_V1/issues">Request Feature</a>
+  </p>
+</div>
+
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="DALL·E 2023-10-17.jpg" alt="Logo" width="180" height="180">
+  </a>
+
+<h3 align="center">ML_Models</h3>
+  <p align="center">
+     Collage of different machine learning algorithms from scratch written in Python using Jypte notebook.
+    <br />
+    <a href="https://github.com/Jean-LucDeRieux/ML_Models"><strong>Explore the project »</strong></a>
+    <br />
+    <a href="https://github.com/Jean-LucDeRieux/ML_Models/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Jean-LucDeRieux/ML_Models/issues">Request Feature</a>
   </p>
 </div>
 
