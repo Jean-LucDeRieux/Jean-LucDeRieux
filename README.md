@@ -40,7 +40,7 @@ ML_Models | Jypter Notebook - Python
 
 <h3 align="center">ML_Models</h3>
   <p align="center">
-     Collage of different machine learning algorithms from scratch written in Python using Jypte notebook.
+     Collage of different machine learning algorithms from scratch written in Python using Jypter notebook.
     <br />
     <a href="https://github.com/Jean-LucDeRieux/ML_Models"><strong>Explore the project »</strong></a>
     <br />
