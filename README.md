@@ -8,30 +8,11 @@
 
 Projects  | Tools Used
 --------- | ----------
-ML_CNN_V1 | C++
 ML_Models | Jypter Notebook - Python
+<!-- ML_CNN_V1 | C++ -->
 
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="DALL·E 2023-02-08.png" alt="Logo" width="180" height="180">
-  </a>
-
-<h3 align="center">ML_CNN_V1</h3>
-
-  <p align="center">
-    A Machine Learning Convolutional Neural Network Model built from the ground up by Jean-Luc DeRieux. This model is intended to be open sourced and anyone is welcome to use it!
-    <br />
-    <a href="https://github.com/Jean-LucDeRieux/ML_CNN_V1"><strong>Explore the project »</strong></a>
-    <br />
-    <a href="https://github.com/Jean-LucDeRieux/ML_CNN_V1/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Jean-LucDeRieux/ML_CNN_V1/issues">Request Feature</a>
-  </p>
-</div>
-
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
@@ -50,6 +31,25 @@ ML_Models | Jypter Notebook - Python
   </p>
 </div>
 
+<!-- 
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="DALL·E 2023-02-08.png" alt="Logo" width="180" height="180">
+  </a>
+
+<h3 align="center">ML_CNN_V1</h3>
+
+  <p align="center">
+    A Machine Learning Convolutional Neural Network Model built from the ground up by Jean-Luc DeRieux. This model is intended to be open sourced and anyone is welcome to use it!
+    <br />
+    <a href="https://github.com/Jean-LucDeRieux/ML_CNN_V1"><strong>Explore the project »</strong></a>
+    <br />
+    <a href="https://github.com/Jean-LucDeRieux/ML_CNN_V1/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Jean-LucDeRieux/ML_CNN_V1/issues">Request Feature</a>
+  </p>
+</div> -->
 
 <!-- CONTACT -->
 ## Contact
